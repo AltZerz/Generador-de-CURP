@@ -144,7 +144,7 @@ const DomainForSale = () => {
             {/* Botón Generar CURP */}
             <button
               type="submit"
-              className="bg-gray-900 py-2 px-4 text-white rounded-md border border-blue-300 hover:bg-blue-600 focus:outline-none"
+              className="bg-gray-900 py-2 px-4 text-white rounded-md border border-blue-300 hover:bg-blue-900 focus:outline-none"
             >
               Generar CURP
             </button>
