@@ -21,9 +21,9 @@ const DomainForSale = () => {
   };
 
   return (
-    <div className="bg-gray-900 h-screen flex items-start justify-start text-left">
+    <div className="bg-gray-900 w-full flex items-start justify-start text-left">
       {/* Mueve todo el contenido más a la izquierda */}
-      <div className="mt-24 ml-12 text-white w-1/2">
+      <div className="mt-24 ml-24 text-white">
         <div className="p-8 bg-gray-800 rounded-md border border-blue-300">
           <form onSubmit={handleSubmit}>
             {/* Primera fila: Nombre, Apellido Paterno, Apellido Materno */}
